@@ -2,9 +2,10 @@ import curses
 import math
 import os
 import random
-import sys
 import time
 
+
+# TODO - add TTL to Citizen, because citizen can't live forever
 
 class Citizen():
 
